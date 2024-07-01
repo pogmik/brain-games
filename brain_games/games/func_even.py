@@ -9,6 +9,7 @@ from brain_games.cli  import *
 
 
 def game_even():
+    print('Welcome to the Brain Games!')
     name = input("May I have your name? ")
     while name == '':
         if name == '':

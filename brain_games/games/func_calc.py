@@ -4,6 +4,7 @@ count = random.randint(1, 100)
 
 
 def game_calc():
+    print('Welcome to the Brain Games!')
     global right_answer
     name = input("May I have your name? ")
     while name == '':

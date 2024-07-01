@@ -1,5 +1,5 @@
 #!/usr/bit/env python3
-from brain_games.cli import welcome_user
+from brain_games.cli import *
 
 
 def main():
@@ -8,5 +8,6 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
     welcome_user()
+    main()
+
