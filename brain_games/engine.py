@@ -1,20 +1,17 @@
+import prompt
 
 ATTEMPTS = 3
 
 
 def play(game):
     print('Welcome to the Brain Games!')
-    name = input("May I have your name? ")
-    while name == '':
-        if name == '':
-            name = input("May I have your name? ")
-    else:
-        print("Hello, " + name + "!")
+    name = prompt.string('May I have your name? ')
+    print(f'Hello, {name}!')
     print(game.RULE)
     for _ in range(ATTEMPTS):
         question, right_answer = game.generate_data()
         print(f"Question: {question}")
-        answer = input(('Your answer: '))
+        answer = prompt.string('Your answer: ')
         if right_answer == answer:
             print('Correct!')
         else:
