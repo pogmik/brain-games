@@ -5,7 +5,6 @@ count = random.randint(1, 100)
 
 def game_calc():
     print('Welcome to the Brain Games!')
-    global right_answer
     name = input("May I have your name? ")
     while name == '':
         if name == '':
@@ -29,17 +28,11 @@ def game_calc():
             right_answer = num1 + num2
         if int(player) == right_answer:
             print("Correct!")
-        if int(player) != right_answer :
+        if int(player) != right_answer:
             sys.exit(f"'{player}' is wrong answer ;(. Correct answer was '{right_answer}' .\nLet's try again, '{name}'")
         i += 1
-        if i == 3 :
+        if i == 3:
             sys.exit(f"Congratulations, {name}!")
-
-
-
-
-
-
 
 
 if __name__ == "__main__":

@@ -1,6 +1,6 @@
 import random
 import sys
-count = random.randint(1, 100)
+
 
 
 def game_even():
@@ -18,18 +18,18 @@ def game_even():
         print("Question:", count)
         player = input("Your answer: ")
         if player != "yes" and player != "no":
-            sys.exit(f"'{player}'is wrong answer;(.Correct answer was 'yes' or 'no'.\nLet's try again, {name}!")
+            print(f"'{player}'is wrong answer;(.Correct answer was 'yes' or 'no'.\nLet's try again, {name}!")
         elif player == "yes" and count % 2 == 0:
             print("Correct!")
         elif player == "no" and count % 2 != 0:
             print("Correct!")
         i += 1
         if i == 3:
-            sys.exit("Congratulations, " + name + "!")
+            print(("Congratulations, " + name + "!"))
         if player == "yes" and count % 2 != 0:
-            sys.exit("'yes' is wrong answer;(.Correct answer was 'no'.\nLet's try again," + name + "!")
+            print(("'yes' is wrong answer;(.Correct answer was 'no'.\nLet's try again," + name + "!"))
         elif player == "no" and count % 2 == 0:
-            sys.exit("'no' is wrong answer;(.Correct answer was 'yes'.\nLet's try again," + name + "!")
+            print(("'no' is wrong answer;(.Correct answer was 'yes'.\nLet's try again," + name + "!"))
 
 
 if __name__ == "__main__":
