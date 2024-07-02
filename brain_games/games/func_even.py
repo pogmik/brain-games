@@ -1,11 +1,6 @@
 import random
-
-import string
 import sys
 count = random.randint(1, 100)
-
-
-from brain_games.cli  import *
 
 
 def game_even():
@@ -23,7 +18,7 @@ def game_even():
         print("Question:", count)
         player = input("Your answer: ")
         if player != "yes" and player != "no":
-            sys.exit("'" + player + "'" + " is wrong answer;(.Correct answer was 'yes' or 'no'.\nLet's try again," + name + "!")
+            sys.exit(f"'{player}'is wrong answer;(.Correct answer was 'yes' or 'no'.\nLet's try again, {name}!")
         elif player == "yes" and count % 2 == 0:
             print("Correct!")
         elif player == "no" and count % 2 != 0:
@@ -39,6 +34,3 @@ def game_even():
 
 if __name__ == "__main__":
     game_even()
-
-
-
