@@ -1,4 +1,10 @@
-from brain_games.games.func_even import game_even
+from brain_games.engine import play
+from brain_games.games import func_even
 
-game_even()
 
+def main():
+    play(func_even)
+
+
+if __name__ == '__main__':
+    main()
