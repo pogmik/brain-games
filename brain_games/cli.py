@@ -8,6 +8,5 @@ def welcome_user():
     print(name)
 
 
-
 if __name__ == "__main__":
     welcome_user()
