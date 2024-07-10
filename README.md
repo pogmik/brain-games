@@ -6,6 +6,22 @@
 
 ### Brain Games consists of 5 mini-games related to simple math. 
 ### The results of the work are given in the questionnaires below:
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="asciinema-player.css" />
+</head>
+<body>
+  <div id="player"></div>
+  <script src="asciinema-player.min.js"></script>
+  <script>
+    AsciinemaPlayer.create(
+      '/assets/667510.cast',
+      document.getElementById('player'),
+      { cols: 80, rows: 24 }
+    );
+  </script>
+</body>
 
 ### ![text (3)](https://github.com/pogmik/python-project-49/assets/167469049/e341a1c0-fd1d-4b6c-9eb3-88d09eb427cb)
 [![asciicast](https://asciinema.org/a/f0icAsDYqwaMu7Skcx7iOHBXC.svg)](https://asciinema.org/a/f0icAsDYqwaMu7Skcx7iOHBXC)
