@@ -8,7 +8,7 @@
 ### The results of the work are given in the questionnaires below:
 
 ### ![text (3)](https://github.com/pogmik/python-project-49/assets/167469049/e341a1c0-fd1d-4b6c-9eb3-88d09eb427cb)
-
+agg https://asciinema.org/a/f0icAsDYqwaMu7Skcx7iOHBXC demo.gif
 
 [![asciicast](https://asciinema.org/a/4K7stjzXex7rHrxDlGevieJGL.png)](https://asciinema.org/a/4K7stjzXex7rHrxDlGevieJGL)
 
