@@ -9,4 +9,3 @@ def generate_data():
     question = f'{num1} {num2}'
     right_answer = str(math.gcd(num1, num2))
     return question, right_answer
-
