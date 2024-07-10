@@ -5,3 +5,4 @@ https://asciinema.org/a/ugvef9t8Ars21Kl4pE3Q4wRXp << brain-calc
 https://asciinema.org/a/RyzOIBWoVfAflCKltttvLw3iY << brain-even
 https://asciinema.org/a/qBRAfAOsm1ZDSoYa1Klz0p7po << brain-gcd
 https://asciinema.org/a/lyJMQHbFfchFcHqUrUGUyWWma << brain-progression
+![text (1)](https://github.com/pogmik/python-project-49/assets/167469049/37ff4007-a42c-4060-9505-53834eab2aef)
