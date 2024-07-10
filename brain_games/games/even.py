@@ -4,9 +4,11 @@ RULE = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
 def generate_data():
-    question = randint(1, 10)
+    start = 1
+    end = 10
+    question = randint(start, end)
     if question % 2 == 0:
         right_answer = 'yes'
-    elif question % 2 != 0:
+    else:
         right_answer = 'no'
     return question, right_answer
