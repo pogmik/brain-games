@@ -6,10 +6,10 @@
 
 
 ### ![text (3)](https://github.com/pogmik/python-project-49/assets/167469049/e341a1c0-fd1d-4b6c-9eb3-88d09eb427cb)
-[![asciicast](https://asciinema.org/a/f0icAsDYqwaMu7Skcx7iOHBXC.svg)](https://asciinema.org/a/f0icAsDYqwaMu7Skcx7iOHBXC)
+[![asciicast](https://asciinema.org/a/qFaGHTIndx0q5gzqHuzgZnd9D.svg)](https://asciinema.org/a/qFaGHTIndx0q5gzqHuzgZnd9D)
 
-### [![![text (4)](https://github.com/pogmik/python-project-49/assets/167469049/6966cdf5-0a4f-492a-bf30-69fd7ea0ace0)
-[![asciicast](https://asciinema.org/a/FgD8UGEZjfTPF9sxpl0DNA3cj.svg)](https://asciinema.org/a/FgD8UGEZjfTPF9sxpl0DNA3cj)
+### ![text (5)](https://github.com/pogmik/python-project-49/assets/167469049/e18bbcb4-28a1-411e-a4a0-032b506ea412)
+[![asciicast](https://asciinema.org/a/z69iVhZM8FqH7QakDFb8RsLHz.svg)](https://asciinema.org/a/z69iVhZM8FqH7QakDFb8RsLHz)
 
 ### Game 3: gcd
 [![asciicast](https://asciinema.org/a/zqA4S57vGc9nZmeA386vq8Etw.png)](https://asciinema.org/a/zqA4S57vGc9nZmeA386vq8Etw)
