@@ -1,4 +1,4 @@
-# Brain Games: the collection of 5 math mini-games
+ # Brain Games: the collection of 5 math mini-games
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/pogmik/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/pogmik/python-project-49/actions)
@@ -7,7 +7,8 @@
 ### Brain Games consists of 5 mini-games related to simple math. 
 ### The results of the work are given in the questionnaires below:
 
-### Game 1: ![text (2)](https://github.com/pogmik/python-project-49/assets/167469049/96a8a7e6-c6ec-48a6-9e4a-222099a065ec)
+### ![text (3)](https://github.com/pogmik/python-project-49/assets/167469049/e341a1c0-fd1d-4b6c-9eb3-88d09eb427cb)
+
 
 [![asciicast](https://asciinema.org/a/4K7stjzXex7rHrxDlGevieJGL.png)](https://asciinema.org/a/4K7stjzXex7rHrxDlGevieJGL)
 
