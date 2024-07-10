@@ -4,32 +4,12 @@
 [![Actions Status](https://github.com/pogmik/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/pogmik/python-project-49/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/8dc2b4b41087bf494759/maintainability)](https://codeclimate.com/github/pogmik/python-project-49/maintainability)
 
-### Brain Games consists of 5 mini-games related to simple math. 
-### The results of the work are given in the questionnaires below:
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="asciinema-player.css" />
-</head>
-<body>
-  <div id="player"></div>
-  <script src="asciinema-player.min.js"></script>
-  <script>
-    AsciinemaPlayer.create(
-      '/assets/667510.cast',
-      document.getElementById('player'),
-      { cols: 80, rows: 24 }
-    );
-  </script>
-</body>
 
 ### ![text (3)](https://github.com/pogmik/python-project-49/assets/167469049/e341a1c0-fd1d-4b6c-9eb3-88d09eb427cb)
 [![asciicast](https://asciinema.org/a/f0icAsDYqwaMu7Skcx7iOHBXC.svg)](https://asciinema.org/a/f0icAsDYqwaMu7Skcx7iOHBXC)
 
-[![asciicast](https://asciinema.org/a/4K7stjzXex7rHrxDlGevieJGL.png)](https://asciinema.org/a/4K7stjzXex7rHrxDlGevieJGL)
-
-### Game 2: calc
- [![asciicast](https://asciinema.org/a/80runRb3exHAZmBag6C1dSmqP.png)](https://asciinema.org/a/80runRb3exHAZmBag6C1dSmqP)
+### [![![text (4)](https://github.com/pogmik/python-project-49/assets/167469049/6966cdf5-0a4f-492a-bf30-69fd7ea0ace0)
+[![asciicast](https://asciinema.org/a/FgD8UGEZjfTPF9sxpl0DNA3cj.svg)](https://asciinema.org/a/FgD8UGEZjfTPF9sxpl0DNA3cj)
 
 ### Game 3: gcd
 [![asciicast](https://asciinema.org/a/zqA4S57vGc9nZmeA386vq8Etw.png)](https://asciinema.org/a/zqA4S57vGc9nZmeA386vq8Etw)
